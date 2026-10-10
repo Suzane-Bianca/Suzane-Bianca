@@ -1,3 +1,3 @@
-## 👾 Suzane Bianca
+# 👾 Suzane Bianca
 
-# Sobre mim:
+## Sobre mim:
