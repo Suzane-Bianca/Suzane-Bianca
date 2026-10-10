@@ -1,5 +1,6 @@
-# 👾 Suzane Bianca
+## 👾 Suzane Bianca
 
-**`Desenvolvedora iOS`**
+**`Desenvolvedora`**
 
-## Sobre mim:
+### Sobre mim:
+
