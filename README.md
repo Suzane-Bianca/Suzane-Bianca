@@ -101,4 +101,4 @@
 
 ### 📈 Estatísticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
