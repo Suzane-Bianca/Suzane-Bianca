@@ -2,7 +2,11 @@
 
 **`Desenvolvedora`**
 
+![Desenvolvedora](https://img.shields.io/badge/Desenvolvedora-8A2BE2?style=flat)
+
 ### Sobre mim:
+
+<br/>
 
 - 🎓 Graduanda em **Engenharia de Computação**.
 - 🍎 Junior Learner na **Apple Developer Academy**, desenvolvendo soluções para o ecossistema iOS.
