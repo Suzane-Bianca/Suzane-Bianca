@@ -4,6 +4,14 @@
 
 ### Sobre mim:
 
+- 🎓 Graduanda em **Engenharia de Computação**.
+- 🍎 Junior Learner na **Apple Developer Academy**, desenvolvendo soluções para o ecossistema iOS.
+- 🛡️ Entusiasta na área de **Cibersegurança**.
+- 🎮 Apaixonada por **jogos**
+- 🚀 Com grande interesse em **aprender tecnologias novas** e encarar diferentes desafios.
+
+<br/>
+
 ### 💻 Linguagens e Tecnologias
 
 <img 
@@ -21,7 +29,7 @@
   title="C++"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"     
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"      
 />
 
 <img 
@@ -30,16 +38,7 @@
   title="PYTHON"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      
-/>
-
-<img 
-  align="left"
-  alt="PYTHON"
-  title="PYTHON"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"       
 />
 
 <img 
@@ -117,5 +116,3 @@
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=suzane-bianca&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
-
-
