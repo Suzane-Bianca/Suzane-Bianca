@@ -101,7 +101,7 @@
 
 ### 📈 Estatísticas
 
-```bash
+`
 name: Update README cards
 
 on:
@@ -150,5 +150,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-
-```
