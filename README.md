@@ -1,8 +1,6 @@
 ## 👾 Suzane Bianca
 
-**`Desenvolvedora`**
-
-![Desenvolvedora](https://img.shields.io/badge/Desenvolvedora-8A2BE2?style=flat)
+#![Desenvolvedora](https://img.shields.io/badge/Desenvolvedora-8A2BE2?style=flat)
 
 ### Sobre mim:
 
