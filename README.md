@@ -103,8 +103,8 @@
 <p>
   <img 
   align="left"
-  hidth="200"
+  height="200"
   style="padding-right: 10px"
-  src="(https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=tokyonight&include_all_commits=true)(https://github.com/stats-organization/github-stats-extended)" 
+  src="https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 </p>
