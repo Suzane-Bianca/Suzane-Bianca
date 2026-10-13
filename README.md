@@ -114,7 +114,7 @@
   align="left"
   alt="Git Stats Languages"
   height="200"
-  style="padding-right: 10px"
+  style="padding-right: 15px"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=suzane-bianca&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&v=1" 
   />
 </p>
