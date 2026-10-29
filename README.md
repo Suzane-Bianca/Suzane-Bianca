@@ -107,7 +107,7 @@
   alt="Git Stats"
   height="200"
   style="padding-right: 10px"
-  src="https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=tokyonight&include_all_commits=true&v=5" 
+  src="https://github-stats-extended.vercel.app/api?username=suzane-bianca&show_icons=true&theme=tokyonight&include_all_commits=true&v=6" 
   />
 
   <img 
@@ -115,6 +115,6 @@
   alt="Git Stats Languages"
   height="200"
   style="padding-right: 5px"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=suzane-bianca&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&v=1" 
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=suzane-bianca&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&v=2" 
   />
 </p>
